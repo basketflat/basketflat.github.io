@@ -12,3 +12,9 @@ p {
   font-family: verdana;
   font-size: 14px;
 }
+
+a {
+  font-family: verdana;
+  font-size: 14px;
+  color: black;
+}
