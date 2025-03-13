@@ -1,14 +1,14 @@
 body {
-  background-color: lightblue;
+  background-color: lightgrey;
 }
 
 h1 {
   color: darkslategrey;
   text-align: center;
-  font-size: 40em;
+  font-size: 20em;
 }
 
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 18px;
 }
